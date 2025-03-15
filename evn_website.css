@@ -47,7 +47,7 @@ body {
 }
 
 .rotacija1 {
-    transform: rotate(25deg);
+    transform: rotate(25deg) scaleX(-1);
 }
 
 .rotacija:hover {
