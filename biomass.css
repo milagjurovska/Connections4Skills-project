@@ -138,6 +138,10 @@ text-align: center;
   display: block;
 }
 
+.footer a{
+  color:black;
+}
+
 .footer a:visited { 
  text-decoration: none; 
  color: black; 
